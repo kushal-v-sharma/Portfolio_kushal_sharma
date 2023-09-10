@@ -421,12 +421,11 @@ section .title::after {
   background: #1e3551;
 }
 
-.skills-content .right .html::before {
+.skills-content .right .java::before {
   width: 90%;
 }
-
-.skills-content .right .java::before {
-  width: 70%;
+.skills-content .right .html::before {
+  width: 90%;
 }
 
 .skills-content .right .css::before {
