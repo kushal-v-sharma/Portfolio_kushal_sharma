@@ -71,7 +71,6 @@ window.addEventListener('click', (event) => {
   
     var typed = new Typed(".typing", {
       strings: [
-        "Fresher",
         "Fresher"
       ],
       typeSpeed: 100,
@@ -81,7 +80,6 @@ window.addEventListener('click', (event) => {
   
     var typed = new Typed(".typing-2", {
       strings: [
-        "Fresher",
         "Fresher"
       ],
       typeSpeed: 100,
