@@ -433,15 +433,15 @@ section .title::after {
 }
 
 .skills-content .right .js::before {
-  width: 50%;
+  width: 70%;
 }
 
 .skills-content .right .php::before {
-  width: 30%;
+  width: 70%;
 }
 
 .skills-content .right .mysql::before {
-  width: 80%;
+  width: 90%;
 }
 
 /*  Projects  */
