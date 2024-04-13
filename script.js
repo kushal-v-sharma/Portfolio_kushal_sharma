@@ -71,11 +71,8 @@ window.addEventListener('click', (event) => {
   
     var typed = new Typed(".typing", {
       strings: [
-        "BTECH FINAL YEAR IT STUDENT",
         "Fresher",
-        "BTECH FINAL YEAR IT STUDENT",
-        "Fresher",
-        "BTECH FINAL YEAR IT STUDENT"
+        "Fresher"
       ],
       typeSpeed: 100,
       backSpeed: 60,
@@ -84,11 +81,8 @@ window.addEventListener('click', (event) => {
   
     var typed = new Typed(".typing-2", {
       strings: [
-        "BTECH FINAL YEAR IT STUDENT",
         "Fresher",
-        "BTECH FINAL YEAR IT STUDENT",
-        "Fresher",
-        "BTECH FINAL YEAR IT STUDENT"
+        "Fresher"
       ],
       typeSpeed: 100,
       backSpeed: 60,
