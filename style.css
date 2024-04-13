@@ -444,6 +444,10 @@ section .title::after {
   width: 90%;
 }
 
+.skills-content .right .MongoDB::before {
+  width: 50%;
+}
+
 /*  Projects  */
 .projects {
   background: radial-gradient(#e1efff, white);
