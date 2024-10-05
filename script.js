@@ -71,7 +71,7 @@ window.addEventListener('click', (event) => {
   
     var typed = new Typed(".typing", {
       strings: [
-        "Fresher"
+        "Zoho Developer"
       ],
       typeSpeed: 100,
       backSpeed: 60,
@@ -80,7 +80,7 @@ window.addEventListener('click', (event) => {
   
     var typed = new Typed(".typing-2", {
       strings: [
-        "Fresher"
+        "Zoho Developer"
       ],
       typeSpeed: 100,
       backSpeed: 60,
